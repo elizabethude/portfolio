@@ -1,5 +1,5 @@
 ---
-layout: pp
+layout: page
 title: Virtual Internship
 permalink: /experience/
 ---
