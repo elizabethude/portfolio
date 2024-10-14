@@ -1,5 +1,5 @@
 ---
-layout: pp
+layout: page
 title: Hackthissite
 permalink: /projectpage/
 ---
