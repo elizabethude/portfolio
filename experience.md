@@ -6,7 +6,7 @@ permalink: /experience/
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./  ).
+[Link to another page](./projectpage.html).
 
 There should be whitespace between paragraphs.
 
