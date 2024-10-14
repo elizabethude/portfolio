@@ -7,7 +7,7 @@ title: Virtual Internship
 
 I completed Cybersecurity Virtual Job Simulation, provided by Forage, and it was a fantastic experience! These programs allowed me to step into different roles in a cybersecurity in which I will outline below.
 
-This hands-on experience has helped me develop valuable skills, and overall, it was an excellent resource for personal and professional growth!
+These hands-on experience has helped me develop valuable skills, and overall, it was an excellent resource for personal and professional growth!
 
 # Intro to Cybersecurity - Commonwealth bank
 
