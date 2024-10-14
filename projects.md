@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Projects
-
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
