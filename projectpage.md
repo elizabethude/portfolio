@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pp
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
