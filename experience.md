@@ -12,20 +12,20 @@ These hands-on experience has helped me develop valuable skills, and overall, it
 # Intro to Cybersecurity - Commonwealth bank
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-[Link to another page](./about).
+[Click here to read more](./about).
 
 # Telstra
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-[Link to another page](./about).
+[Click here to read more](./about).
 
 # Mastercard
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-[Link to another page](./about).
+[Click here to read more](./about).
 
 # ANZ
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-[Link to another page](./about).
+[Click here to read more](./about).
 
