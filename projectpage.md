@@ -1,7 +1,7 @@
 ---
 layout: pp
 title: Hackthissite
-permalink: /projects/
+permalink: /projectpage/
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
