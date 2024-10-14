@@ -6,7 +6,7 @@ title: Projects
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./projectpage).
+[Link to another page](./hackthissite).
 
 [Link to another page](./another-page.html).
 
