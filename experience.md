@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Virtual Internship
-permalink: /experience/
+
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
