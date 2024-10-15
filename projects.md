@@ -4,11 +4,11 @@ title: Projects
 ---
 
 
-[Phishing Awareness](./phishing).
+[Phishing Awareness](./phishing)
 
-[Web App Penertration](./hackthissite).
+[Web App Penertration](./hackthissite)
 
-[Network Analysis](./pcapanalysis).
+[Network Analysis](./pcapanalysis)
 
-[Vulnerability scan with Nessus](./nessusvulnassessment).
+[Vulnerability scan with Nessus](./nessusvulnassessment)
 
