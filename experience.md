@@ -16,7 +16,7 @@ Here I engaged in hands-on activities that taught me how to create and visually 
 ### Telstra
 
 Here I completed tasks focused on developing skills in cybersecurity and risk management. I worked on identifying security risks, analyzing vulnerabilities, and implementing mitigation strategies.  I gained hands-on experience with security tools and frameworks, and I learned how to create detailed reports on cybersecurity incidents and risks.
-[Read more](./about)
+[Read more](./virtualinternships/telstra.md)
 
 ### Mastercard
 
