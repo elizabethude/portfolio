@@ -11,7 +11,7 @@ These hands-on experiences have helped me develop valuable skills, and they were
 
 ### Commonwealth Bank
 Here I engaged in hands-on activities that taught me how to create and visually represent reliable datasets, present my findings to stakeholders, and respond to cybersecurity incidents as a security analyst. This experience provided valuable insights into the role of a cybersecurity analyst.
-[Read more](./about)
+[Read more](./virtualinternships/commonwealthbank.md)
 
 ### Telstra
 
