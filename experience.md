@@ -8,7 +8,7 @@ I completed Cybersecurity Virtual Internships, provided by Forage, and it was a 
 These hands-on experiences have helped me develop valuable skills, and they were an excellent resource for personal and professional growth overall!
 
 # Commonwealth Bank
-Here I engaged in hands-on activities that taught me how to create and visually represent reliable datasets, present my findings to stakeholders, and respond to cybersecurity incidents as a security analyst. 
+Here I engaged in hands-on activities that taught me how to create and visually represent reliable datasets, present my findings to stakeholders, and respond to cybersecurity incidents as a security analyst. This experience provided valuable insights into the role of a cybersecurity analyst.
 [Read more](./about)
 
 # Telstra
