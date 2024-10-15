@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Virtual Internship
+title: Experience
 
 ---
+
+## Virtual Internship
 
 I completed Cybersecurity Virtual Internships, provided by Forage, and it was a fantastic experience! These programs allowed me to step into different cybersecurity roles, which I will outline below.
 These hands-on experiences have helped me develop valuable skills, and they were an excellent resource for personal and professional growth overall!
