@@ -26,5 +26,5 @@ In this simulation, I worked on various cybersecurity tasks. I analyzed potentia
 ### ANZ
 
 In this virtual experience, I engaged in tasks that simulated real-world cybersecurity challenges faced by financial institutions, such as Risk Identification and Assessment, and developed an Incident Response Plan. These tasks gave me practical insights into managing cybersecurity threats within an organization.
-[Read more](./about)
+[Read more](./virtualinternships/anz.md)
 
