@@ -11,12 +11,12 @@ These hands-on experiences have helped me develop valuable skills, and they were
 
 ### Commonwealth Bank
 Here I engaged in hands-on activities that taught me how to create and visually represent reliable datasets, present my findings to stakeholders, and respond to cybersecurity incidents as a security analyst. This experience provided valuable insights into the role of a cybersecurity analyst.
-[Read more](./virtualinternships/commonwealthbank.md)
+[Read more](../commonwealthbank.md)
 
 ### Telstra
 
 Here I completed tasks focused on developing skills in cybersecurity and risk management. I worked on identifying security risks, analyzing vulnerabilities, and implementing mitigation strategies.  I gained hands-on experience with security tools and frameworks, and I learned how to create detailed reports on cybersecurity incidents and risks.
-[Read more](./virtualinternships/telstra.md)
+[Read more](../telstra.md)
 
 ### Mastercard
 
