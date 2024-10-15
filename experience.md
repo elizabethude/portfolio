@@ -21,7 +21,7 @@ Here I completed tasks focused on developing skills in cybersecurity and risk ma
 ### Mastercard
 
 In this simulation, I worked on various cybersecurity tasks. I analyzed potential threats and vulnerabilities within a company's system. I created a phishing email simulation to raise awareness about social engineering attacks. The experience helped me sharpen my ability to identify risks and implement effective defenses.
-[Read more](./about)
+[Read more](.virtualinternships/mastercard.md)
 
 ### ANZ
 
