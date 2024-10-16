@@ -30,6 +30,6 @@ In this virtual experience, I engaged in tasks that simulated real-world cyberse
 
 ### Datacom
 
-In this experience, I investigated APT34, analyzed their tactics using OSINT tools and the MITRE ATT&CK framework, and provided recommendations to enhance the client's cybersecurity defenses.  I also conducted a comprehensive risk assessment, identifying and evaluating potential threats while suggesting additional measures to strengthen the client’s security posture.
+In this experience, I investigated an APT group, analyzed their tactics using OSINT tools and the MITRE ATT&CK framework, and provided recommendations to enhance the client's cybersecurity defenses.  I also conducted a comprehensive risk assessment, identifying and evaluating potential threats while suggesting additional measures to strengthen the client’s security posture.
 [Read more](./virtualinternships/datacom)
 
