@@ -7,7 +7,7 @@ permalink: /about/
 ##   Hi, I’m Elizabeth Ude — Cybersecurity Enthusiast & Problem Solver
 
 Welcome to my corner of the web! 
-I’m a Cyber Security Analyst with a passion for protecting what matters most — information, systems, and people. 
+I’m a cybersecurity newbie (somewhat) with a passion for protecting what matters most — information, systems, and people. 
 My journey into cybersecurity has been driven by a love for solving complex challenges and a genuine curiosity about how things work behind the scenes.
 
 > I’m all about making a real impact - it’s a mission to create safer, more resilient digital spaces.
