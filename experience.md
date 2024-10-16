@@ -28,3 +28,8 @@ In this simulation, I worked on various cybersecurity tasks. I analyzed potentia
 In this virtual experience, I engaged in tasks that simulated real-world cybersecurity challenges faced by financial institutions, such as Risk Identification and Assessment, and developed an Incident Response Plan. These tasks gave me practical insights into managing cybersecurity threats within an organization.
 [Read more](./virtualinternships/anz)
 
+### Datacom
+
+In this experience, I investigated APT34, analyzed their tactics using OSINT tools and the MITRE ATT&CK framework, and provided recommendations to enhance the client's cybersecurity defenses.  I also conducted a comprehensive risk assessment, identifying and evaluating potential threats while suggesting additional measures to strengthen the client’s security posture.
+[Read more](./virtualinternships/anz)
+
