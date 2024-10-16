@@ -13,14 +13,6 @@ title: Commonwealth Bank Internship
 
 
 
-I began by revising the fundamentals of cybersecurity and learning about various cyber threats such as phishing and malware. 
-I identified security risks, conducted assessments on fictional organizations, and prioritized vulnerabilities to enhance my risk management skills.
-Additionally, I implemented security measures like firewalls and encryption protocols, emphasizing the importance of a multi-layered security approach.
 
-The simulation also involved monitoring networks for suspicious activities, responding to incidents in real time, and developing effective communication strategies for both technical and non-technical audiences.
-I explored ways to foster a cybersecurity culture within organizations by training employees and promoting awareness to minimize human error.
-
-Lastly, I evaluated existing security policies for their effectiveness and compliance with regulations, highlighting the need for continuous improvement in response to evolving cyber threats.
-Overall, the experience equipped me with valuable insights and practical skills for tackling real-world cybersecurity challenges.
 
 
