@@ -3,7 +3,7 @@ layout: page
 title: Mastercard Internship
 ---
 
-## Mastercard Cybersecurity virtual experience program on Forage - September 202
+## Mastercard Cybersecurity virtual experience program on Forage - September 2024
 
 *   Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team
 *   Helped identify and report security threats such as phishing
