@@ -18,44 +18,7 @@ Finally, I conducted a postmortem, reflecting on the incident's details, root ca
 
 
 ```
-**Communication**
+Communication, Compliance, Cybersecurity, Data Analysis, Design Thinking, Detection & Response, Governance, Incident Reflection, Incident Triage, Network Analysis, Problem Solving, Python, Research, Risk, Root Cause Analysis, Security Engineering, Software Development, Solution Architecture, Strategy, Teamwork
 
-**Compliance**
-
-**Cybersecurity**
-
-**Data Analysis**
-
-**Design Thinking**
-
-**Detection & Response**
-
-**Governance**
-
-**Incident Reflection**
-
-**Incident Triage**
-
-**Network Analysis**
-
-**Problem Solving**
-
-**Python**
-
-**Research**
-
-**Risk**
-
-**Root Cause Analysis**
-
-**Security Engineering**
-
-**Software Development**
-
-**Solution Architecture**
-
-**Strategy**
-
-**Teamwork**
 ```
 
