@@ -12,3 +12,50 @@ Next, I analyzed the attack data to identify malware spread patterns, enabling m
 Using Python, I crafted a firewall rule to mitigate the malware's spread technically, enhancing my software development and problem-solving skills.
 
 Finally, I conducted a postmortem, reflecting on the incident's details, root causes, and compliance implications. This wrap-up reinforced my understanding of incident management strategies and governance.
+
+
+### Skills
+
+
+```
+**Communication**
+
+**Compliance**
+
+**Cybersecurity**
+
+**Data Analysis**
+
+**Design Thinking**
+
+**Detection & Response**
+
+**Governance**
+
+**Incident Reflection**
+
+**Incident Triage**
+
+**Network Analysis**
+
+**Problem Solving**
+
+**Python**
+
+**Research**
+
+**Risk**
+
+**Root Cause Analysis**
+
+**Security Engineering**
+
+**Software Development**
+
+**Solution Architecture**
+
+**Strategy**
+
+**Teamwork**
+```
+
