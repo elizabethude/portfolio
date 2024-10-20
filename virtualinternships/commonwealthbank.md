@@ -20,11 +20,25 @@ I completed several key cybersecurity tasks that enhanced my skills in data anal
 
 *  Password Security Awareness Infographic: I designed a clear, visually appealing infographic using ACSC guidelines, emphasizing strong password creation and management tips for employees.
 
-*  Penetration Testing (HackThisSite): I completed 11 web challenges, identified vulnerabilities, and compiled a report with findings and recommendations to secure web applications.
+*  Penetration Testing: I identified vulnerabilities, and compiled a report with findings and recommendations to secure web applications.
 
 These tasks strengthened my ability to detect fraud, respond to security incidents, raise awareness, and identify vulnerabilities in web systems.
   
 
+```js
+Splunk Basics
+Data Analysis
+Data Visualisation
+Cyber Security
+Incident Triage
+Detection and Response
+Data Protection
+Password Security
+Compliance Knowledge
+Penetration Testing
+Creative Thinking
+Problem Solving
+```
 
 
 
