@@ -3,7 +3,7 @@ layout: page
 title: Telstra Internship
 ---
 
-## Telsa Cybersecurity Job Simulation on Forage - September 2024
+## Telstra Cybersecurity Job Simulation on Forage - September 2024
 
 In my experience responding to a malware attack, I first triaged the alert received at the Security Operation Centre (SOC), quickly contacting the appropriate team to initiate a response. This involved honing my skills in incident detection, communication, and teamwork.
 
@@ -15,7 +15,6 @@ Finally, I conducted a postmortem, reflecting on the incident's details, root ca
 
 
 ### Skills
-
 
 ```
 Communication, Compliance, Cybersecurity, Data Analysis, Design Thinking, Detection & Response, Governance, Incident Reflection, Incident Triage, Network Analysis, Problem Solving, Python, Research, Risk, Root Cause Analysis, Security Engineering, Software Development, Solution Architecture, Strategy, Teamwork
