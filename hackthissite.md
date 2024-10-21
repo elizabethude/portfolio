@@ -57,6 +57,8 @@ https://www.hackthissite.org/missions/basic/3/password.php
 ```
 
 ![level 3b](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%203b.png)
+
+
 ---
 
 ## Level 4
@@ -74,6 +76,7 @@ Change the email address to one you have access to. Send the email and check for
 
 ![level 4](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%204.PNG)
 ![level 4b](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%204b.PNG)
+![level 4c](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%204c.png)
 
 ---
 ##  Level 5
