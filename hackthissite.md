@@ -172,9 +172,48 @@ https://www.hackthissite.org/missions/basic/9/p91e283zc3.php
 ![Level 9](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%209c.png?raw=true)
 
 ---
+
+##  Level 10
+
+**Description:**
+This challenge uses cookies for authentication.
+
+Steps:
+
+Open Burp Suite and intercept the request.
+Submit any input in the form on level 10.
+Change the cookie authentication from "no" to "yes" and forward the request.
+
+![Level 10.png](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%2010.png?raw=true)
+
+![Level 10b](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%2010b.png?raw=true)
+
 ---
+
+##  Level 11
+
+**Description:**
+This challenge emphasizes the importance of not activating directory listing.
+
+Steps:
+
+Append letters to the URL to navigate through directories.
+Discovered hidden files like .htaccess and view the relevant code.
+Append 'DaAnswer' to the URL to get the following:
+
+```
+https://www.hackthissite.org/missions/basic/11/e/l/t/o/n/DaAnswer
+```
+
+Append index.php to the URL to access the password entry box. The password is here:
+```
+https://www.hackthissite.org/missions/basic/11/index.php
+```
+
 ---
----
----
----
----
+
+#### Conclusion
+
+This project illustrates various methods for solving web security challenges, emphasizing the importance of understanding web vulnerabilities and user input validation.
+
+
