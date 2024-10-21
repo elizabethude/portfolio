@@ -52,7 +52,6 @@ To find the password file, view the page source and locate the file name (`passw
 
 ```
 https://www.hackthissite.org/missions/basic/3/password.php
-
 ```
 
 ![level 3b](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%203b.png)
@@ -92,7 +91,7 @@ Similar to Level 4, find the HTML form and change the hidden email field.
 Solution:
 Change the email address and send the email to retrieve the password.
 
-![level 5](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%205%20(pw).png0)
+![level 5](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%205%20(pw).png)
 
 ---
 ##  Level 6
