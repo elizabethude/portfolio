@@ -93,6 +93,8 @@ Similar to Level 4, find the HTML form and change the hidden email field.
 Solution:
 Change the email address and send the email to retrieve the password.
 
+![level 5](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%205%20(pw).png0)
+
 ---
 ##  Level 6
 **Description:**
