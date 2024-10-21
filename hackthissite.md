@@ -130,12 +130,43 @@ https://www.hackthissite.org/missions/basic/7/k1kh31b1n55h.php
 
 ![level 7c](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%207c.png?raw=true)
 
+---
+##  Level 8
+**Description:**
+Use Server-Side Includes (SSI) to find the hidden password.
+
+Payload:
+```
+<!--#exec cmd="ls ../"-->
+```
+
+Solution:
+The command executes and lists the directory content. Copy the password file and append it to the URL to complete the mission.
+
+![Level 8](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%208.png?raw=true)
+
+![Level 8b](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%208b.png?raw=true)
+
+![Level 8c](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%208c.png?raw=true)
+
+---
+
+##  Level 9
+
+**Description:**
+Like Level 8, inject payload code into the form and traverse to the Level 9 directory.
+
+Payload:
+```
+<!--#exec cmd="ls ../../9"-->
+```
+Solution:
+Append the password file to the level 9 URL:
+```
+https://www.hackthissite.org/missions/basic/9/p91e283zc3.php
+```
 
 
----
----
----
----
 ---
 ---
 ---
