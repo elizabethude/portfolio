@@ -30,6 +30,7 @@ I defined the risk matrix, calculating risk ratings for each scenario, both with
 
 I then suggested additional measures to further reduce the risks and created a detailed risk assessment report to guide the client in mitigating these risks and strengthening their security posture.
 
+
 ```
 Analytical Skills, Communication, OSINT, Research, Risk Assessment, Risk Management, Security, Security Analysis
 ```
