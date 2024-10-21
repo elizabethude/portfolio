@@ -35,7 +35,7 @@ Below is a detailed walkthrough of the challenges faced in the Hack This Site mi
 **Description:**  
 View page source to find the password; the password can be found commented out.
 
-[level 1 ](https://raw.githubusercontent.com/elizabethude/portfolio/refs/heads/main/projectimages/hts/Level%201.PNG)
+![level 1 ](https://raw.githubusercontent.com/elizabethude/portfolio/refs/heads/main/projectimages/hts/Level%201.PNG)
 
 ---
 
