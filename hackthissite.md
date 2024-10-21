@@ -96,17 +96,35 @@ Change the email address and send the email to retrieve the password.
 ---
 ##  Level 6
 **Description:**
-The hint suggests a progressive Caesar cipher. Each character is shifted by an increasing number.
+The hint suggests a progressive Caesar cipher. An increasing number shifts each character.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+|Character     | Shift Applised    | Reverse the shift | Decryted Character|
+|:-------------|:------------------|:------------------|:------------------|
+| 8            | 0                 |No shift           |a                  |
+| c            | 1                 |c → b              |b                  |
+| d            | 2                 |d → b              |c                  |    
+| 3            | 3                 |3 → 0              |0                  |
+| 7            | 4                 |7 → 3              |3                  |
+| 7            | 5                 |7 → 2              |2                  |
+| =            | 6                 |= → 7              |7                  |    
+| l            | 7                 |l → e              |e                  |
 
+Final Decrypted Text:
+The decrypted string is 8bb0327e.
 
 ---
+##  Level 7
+**Description:**
+Never trust user inputs!
+
+Steps:
+
+Type ;ls into the input box to view the directory.
+Append the password file name to the URL:
+```
+https://www.hackthissite.org/missions/basic/7/k1kh31b1n55h.php
+```
+
 ---
 ---
 ---
