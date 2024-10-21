@@ -28,18 +28,7 @@ These tasks strengthened my ability to detect fraud, respond to security inciden
 
 
 ```
-Splunk Basics
-Data Analysis
-Data Visualisation
-Cyber Security
-Incident Triage
-Detection and Response
-Data Protection
-Password Security
-Compliance Knowledge
-Penetration Testing
-Creative Thinking
-Problem Solving
+Splunk Basics, Data Analysis, Data Visualisation, Cyber Security Incident Triage, Detection and Response, Data Protection, Password Security, Compliance Knowledge, Penetration Testing, Creative Thinking, Problem Solving
 ```
 
 
