@@ -54,7 +54,7 @@ To find the password file, view the page source and locate the file name (`passw
 https://www.hackthissite.org/missions/basic/3/password.php
 ```
 
-![level 3b](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%203b.png)
+![level 3b](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%203b.png?raw=true)
 
 
 ---
@@ -72,11 +72,11 @@ html
 Solution:
 Change the email address to one you have access to. Send the email and check for the password.
 
-![level 4](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%204.PNG)
+![level 4](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%204.PNG?raw=true)
 
-![level 4b](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%204b.PNG)
+![level 4b](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%204b.PNG?raw=true)
 
-![level 4c](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%204c.png)
+![level 4c](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%204c.png?raw=true)
 
 ---
 ##  Level 5
@@ -91,7 +91,7 @@ Similar to Level 4, find the HTML form and change the hidden email field.
 Solution:
 Change the email address and send the email to retrieve the password.
 
-![level 5](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%205%20(pw).png)
+![level 5](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%205%20(pw).png?raw=true)
 
 ---
 ##  Level 6
@@ -124,6 +124,13 @@ Append the password file name to the URL:
 ```
 https://www.hackthissite.org/missions/basic/7/k1kh31b1n55h.php
 ```
+![level 7](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%207.png?raw=true)
+
+![level 7b](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%207b.png?raw=true)
+
+![level 7c](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%207c.png?raw=true)
+
+
 
 ---
 ---
