@@ -75,7 +75,9 @@ Solution:
 Change the email address to one you have access to. Send the email and check for the password.
 
 ![level 4](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%204.PNG)
+
 ![level 4b](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%204b.PNG)
+
 ![level 4c](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%204c.png)
 
 ---
