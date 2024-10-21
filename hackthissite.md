@@ -55,6 +55,8 @@ To find the password file, view the page source and locate the file name (`passw
 https://www.hackthissite.org/missions/basic/3/password.php
 
 ```
+
+![level 3b](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%203b.png)
 ---
 
 ## Level 4
