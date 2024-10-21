@@ -165,7 +165,11 @@ Append the password file to the level 9 URL:
 ```
 https://www.hackthissite.org/missions/basic/9/p91e283zc3.php
 ```
+![Level 9](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%209.png?raw=true)
 
+![Level 9b](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%209b.png?raw=true)
+
+![Level 9](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%209c.png?raw=true)
 
 ---
 ---
