@@ -6,7 +6,6 @@ title: HACKTHISSITE
 
 # Project Work: Hack This Site Missions
 
-#### Basic Missions walkthrough Level 1 - 11 
 
 [HackThisSite](https://www.hackthissite.org/) is an online platform to help individuals learn and practice ethical hacking and cybersecurity skills. 
 
