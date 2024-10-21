@@ -21,14 +21,6 @@ I made sure the email felt urgent, prompting immediate action, which is a common
 Lastly, I tested the simulation to ensure that it effectively highlighted security awareness needs.
 
 ```
-Cybersecurity
-Technical Security Awareness
-Problem Solving
-Design Thinking
-Communication
-Security Awareness Training
-Data Analysis
-Data Presentation
-Strategy
+Cybersecurity, Technical Security Awareness, Problem Solving, Design Thinking, Communication, Security Awareness Training, Data Analysis, Data Presentation, Strategy
 
 ```
