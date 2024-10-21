@@ -49,12 +49,12 @@ Since there is no text file to compare the user input, pressing enter without ty
 **Description:**  
 To find the password file, view the page source and locate the file name (`password.php`). Append it to the URL:
 
+![level 3](https://raw.githubusercontent.com/elizabethude/portfolio/refs/heads/main/projectimages/hts/Level%203.PNG)
+
 ```
 https://www.hackthissite.org/missions/basic/3/password.php
 
 ```
-![level 3](https://raw.githubusercontent.com/elizabethude/portfolio/refs/heads/main/projectimages/hts/Level%203.PNG)
-
 ---
 
 ## Level 4
