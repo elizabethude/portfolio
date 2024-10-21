@@ -53,7 +53,7 @@ To find the password file, view the page source and locate the file name (`passw
 https://www.hackthissite.org/missions/basic/3/password.php
 
 ```
-![level 3](https://raw.githubusercontent.com/username/repository/branch/path/to/image.png)
+![level 3](https://raw.githubusercontent.com/elizabethude/portfolio/refs/heads/main/projectimages/hts/Level%203.PNG)
 
 ---
 
