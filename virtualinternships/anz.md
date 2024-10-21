@@ -30,10 +30,5 @@ My report detailed both the technical process and the investigative approach use
 
 
 ```
-Digital/Open Source Investigations
-Social Engineering concepts
-Security report writing
-Analyse network traffic
-Identify file types
-Open source investigation
+Digital/Open Source Investigations, Social Engineering concepts, Security report writing, Analyse network traffic, Identify file types, Open source investigation
 ```
