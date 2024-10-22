@@ -201,6 +201,9 @@ Append letters to the URL to navigate through directories.
 Discovered hidden files like .htaccess and view the relevant code.
 Append 'DaAnswer' to the URL to get the following:
 
+
+![Level 11](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%2011.png?raw=true)
+
 ```
 https://www.hackthissite.org/missions/basic/11/e/l/t/o/n/DaAnswer
 ```
@@ -209,6 +212,10 @@ Append index.php to the URL to access the password entry box. The password is he
 ```
 https://www.hackthissite.org/missions/basic/11/index.php
 ```
+
+![Level 11b](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%2011b.png?raw=true)
+
+![Level 11c](https://github.com/elizabethude/portfolio/blob/main/projectimages/hts/Level%2011c.png?raw=true)
 
 ---
 
