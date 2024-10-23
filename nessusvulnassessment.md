@@ -9,7 +9,7 @@ title: Nessus Vulnerability Assessment
 ---
 
 
-In this [_project_](https://github.com/elizabethude/webb_vulnscan), I’m demonstrating how to use Nessus to scan a website for vulnerabilities. Nessus is a popular vulnerability scanner that helps identify potential security issues in websites. It must be added that permission was obtained before any scans were carried out.
+In this [_project_](https://github.com/elizabethude/webb_vulnscan), I’m demonstrating how to use Nessus to scan a website for vulnerabilities, in the most simplest way. Nessus is a popular vulnerability scanner that helps identify potential security issues in websites. It must be added that permission was obtained before any scans were carried out.
 
 ### Project Structure
 - **docs/**: I’ve included additional documentation files here.
@@ -37,4 +37,11 @@ I’ve detailed the usage instructions in `docs/usage.md`, but here’s a quick 
 3. **Review the Results**: Once the scan finishes, grab the report (e.g., scan_results) and go through the findings.
 
 ![3](https://github.com/elizabethude/portfolio/blob/main/projectimages/nessusvulnscan/3.png?raw=true)
+
+
+I’ve learned how to configure and run basic vulnerability scans, identify common security issues like outdated software or insecure configurations, and interpret scan results. 
+
+I’ve also become familiar with reporting vulnerabilities and suggesting straightforward remediation steps, such as updating software or fixing misconfiguration. 
+
+While it’s a starting point, this project helped me build a foundational understanding of vulnerability scanning and reporting in the context of web security.
 
