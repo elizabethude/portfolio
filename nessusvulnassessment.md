@@ -30,4 +30,5 @@ I’ve detailed the usage instructions in `docs/usage.md`, but here’s a quick 
 2. **Run the Scan**: Start the scan from Nessus.
 ![2](https://github.com/elizabethude/portfolio/blob/main/projectimages/nessusvulnscan/2.png?raw=true)
 3. **Review the Results**: Once the scan finishes, grab the report (e.g., scan_results) and go through the findings.
+![3](
 
