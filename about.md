@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-##   Hi, I’m Elizabeth Ude — Cybersecurity Enthusiast & Problem Solver
+##   Hi, I’m Elizabeth Ude — Cybersecurity Enthusiast & Human
 
 Welcome to my corner of the web! 
 
