@@ -4,8 +4,6 @@ title: HACKTHISSITE
 
 ---
 
-# Project Work: Hack This Site Missions
-
 
 [HackThisSite](https://www.hackthissite.org/) is an online platform to help individuals learn and practice ethical hacking and cybersecurity skills. 
 
