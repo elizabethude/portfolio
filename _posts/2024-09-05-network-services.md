@@ -10,6 +10,7 @@ Before starting, I’d recommend checking out the reading material provided with
 
 ## Task 2 Understanding SMB
 
+![SMB](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/network%20services/2.png?raw=true)
 
 
 **What does SMB stand for?**
@@ -38,6 +39,7 @@ Conduct an nmap scan of your choosing, How many ports are open?
 ```
 root@ip-10-10-113-212:~# nmap -sS 10.10.21.250
 ```
+![3a](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/network%20services/3a.png?raw=true)
 
 **What ports is SMB running on?**
 
@@ -45,9 +47,13 @@ root@ip-10-10-113-212:~# nmap -sS 10.10.21.250
 
 **Let's get started with Enum4Linux, conduct a full basic enumeration. For starters, what is the workgroup name?**   
 
+![3c](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/network%20services/3c.png?raw=true)
+
 >  WORKGROUP
 
 **What comes up as the name of the machine?**    
+
+![3d](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/network%20services/3d.png?raw=true)
 
 >  POLOSMB
 
@@ -56,6 +62,8 @@ root@ip-10-10-113-212:~# nmap -sS 10.10.21.250
 >  6.1
 
 **What share sticks out as something we might want to investigate?**    
+
+![3f](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/network%20services/3f.png?raw=true)
 
 >  profiles - IPC$ and print$ are default SMB shares. netlogon is a share that belongs to the Network Login service. By process of elimination, the share that sticks out is profiles
 
