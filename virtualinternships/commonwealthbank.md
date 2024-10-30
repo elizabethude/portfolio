@@ -54,6 +54,7 @@ I completed several key cybersecurity tasks that enhanced my skills in data anal
 
 These tasks strengthened my ability to detect fraud, respond to security incidents, raise awareness, and identify vulnerabilities in web systems.
 
+### Skills
 
 ```
 Splunk Basics, Data Analysis, Data Visualisation, Cyber Security Incident Triage, Detection and Response, Data Protection, Password Security, Compliance Knowledge, Penetration Testing, Creative Thinking, Problem Solving
