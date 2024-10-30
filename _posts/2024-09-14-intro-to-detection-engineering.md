@@ -8,10 +8,13 @@ In this room, well go through the concept of detection engineering and framework
 Before starting, I’d recommend checking out the reading material provided with each task—it’ll give you a solid foundation. 
 This guide will cover just the essentials needed to answer the questions.
 
+![1a](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/1.PNG?raw=true)
+
 
 ##  Task 2 What is Detection Engineering?
 
 ####  Detection Engineering
+
 Cybersecurity is rapidly evolving, and so are the tactics of adversaries, making it challenging for security teams to keep pace. 
 
 Detection engineering addresses this by continuously building and refining threat intelligence analytics to spot potentially harmful activities or misconfigurations. 
@@ -54,6 +57,9 @@ By incorporating principles from Continuous Integration/Continuous Development (
 **Code Reusability**: Enables engineers to leverage existing code for similar detection functions, accelerating the overall detection process.
 
 
+![2a](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/2a.PNG?raw=true)
+
+
 
 **Which detection type focuses on misalignments within the current infrastructure?**
 
@@ -92,6 +98,8 @@ It serves as a guide for identifying what to monitor, especially during the dete
 The CAR knowledge base is utilized for detecting adversary behaviors, prioritizing them based on insights from the ATT&CK framework, ensuring that security efforts are focused on the most critical threats.
 
 
+![4d](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/4d.PNG?raw=true)
+
 ####**Pyramid of Pain**
 
 The Pyramid of Pain is a widely recognized framework that illustrates the challenges adversaries face when defenders detect their tactics, techniques, and procedures (TTPs). 
@@ -114,6 +122,9 @@ Installation
 Command & Control
 Actions on Objectives
 ```
+
+![4d](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/4dd.PNG?raw=true)
+
 
 For security analysts and detection engineers, understanding the Cyber Kill Chain is vital for recognizing intrusion attempts and integrating them into detection plans. 
 
@@ -168,6 +179,8 @@ The ADS Framework outlines a strict process for detection engineers before publi
 9. **Response:** Finally, this section details how to triage and investigate detection alerts, providing essential guidance for analysts and responders to mitigate potential risks effectively.
 
 
+![5a](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/4d.PNG?raw=true)
+
 
 ### Detection Maturity Level Model
 
@@ -197,6 +210,10 @@ The DML model features nine maturity levels, ranging from 0 to 8. The lower leve
 
 - **DML-0 None:** The lowest level indicates organizations that lack any established detection processes, highlighting a critical vulnerability.
 
+
+![5b](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/5b.PNG?raw=true)
+
+
 **Read the above.**
 
 >  No answer needed
@@ -210,6 +227,14 @@ In this task, I work to establish a detection engineering process aimed at ident
 As a detection analyst, I’ve been assigned the task of developing the strategy based on a series of questions. 
 
 Each question has one correct answer, and it's up to me to identify and select it. 
+
+[6a](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/6a.PNG?raw=true)
+
+[6b](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/6b.PNG?raw=true)
+
+[6c](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/6c.PNG?raw=true)
+
+[6d](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/6d.PNG?raw=true)
 
 
 
