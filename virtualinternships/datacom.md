@@ -7,10 +7,13 @@ title: Datacom Internship
 
  * Completed a simulation focussed on how Datacom's cybersecurity team helps
    protect it's clients
+   
  * Investigated a cyberattack and produced a comprehensive report documenting
    findings and outlining key recommendations to improve a client's
    cybersecurity posture
+   
  * Conducted a comprehensive risk assessment
+
 
 ####   Task 1
 
@@ -22,6 +25,10 @@ I then applied the MITRE ATT&CK framework to identify ways to defend the client 
 
 My final deliverable was a comprehensive report summarizing my research findings and offering recommendations to improve the client’s cybersecurity posture.
 
+
+![1](https://github.com/elizabethude/portfolio/blob/main/projectimages/virtual%20internship/datacom/1.PNG?raw=true)
+
+
 ####   Task 2
 
 Using a padlock analogy, I helped the client identify key assets to protect and assessed different risk scenarios, such as cyberattacks. 
@@ -30,6 +37,10 @@ I defined the risk matrix, calculating risk ratings for each scenario, both with
 
 I then suggested additional measures to further reduce the risks and created a detailed risk assessment report to guide the client in mitigating these risks and strengthening their security posture.
 
+
+![2](https://github.com/elizabethude/portfolio/blob/main/projectimages/virtual%20internship/datacom/2.PNG?raw=true)
+
+### Skills
 
 ```
 Analytical Skills, Communication, OSINT, Research, Risk Assessment, Risk Management, Security, Security Analysis
