@@ -6,7 +6,7 @@ permalink: /about/
 
 ##   Hi, I’m Elizabeth Ude — Cybersecurity Enthusiast & Human
 
-Welcome to my corner of the web! [Here](./docs/lizudecv.pdf) is my resume but I'll share a little about me below.
+Welcome to my corner of the web! [Here](docs/lizudecv.pdf) is my resume but I'll share a little about me below.
 
 I’m a cybersecurity newbie (somewhat) with a passion for protecting what matters most — information, systems, and people. 
 
@@ -26,4 +26,4 @@ Outside of work, I’m always learning, always curious, and always ready to take
 
 Feel free to explore my portfolio for more about my experience, projects, and the world of cybersecurity through my eyes.
 
-Check out my resume [here](./docs/lizudecv.pdf)
+Check out my resume [here](docs/lizudecv.pdf)
