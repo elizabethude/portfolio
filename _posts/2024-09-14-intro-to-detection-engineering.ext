@@ -1,1 +1,83 @@
+---
+layout: post
+title: Introduction to Detection Engineering - TryHackME
+---
+
+In this room, well go through the concept of detection engineering and frameworks used toowards crafting effective threat detecction strategies.
+
+Before starting, I’d recommend checking out the reading material provided with each task—it’ll give you a solid foundation. 
+This guide will cover just the essentials needed to answer the questions.
+
+
+##  Task 2 What is Detection Engineering?
+
+####  Detection Engineering
+Cybersecurity is rapidly evolving, and so are the tactics of adversaries, making it challenging for security teams to keep pace. 
+
+Detection engineering addresses this by continuously building and refining threat intelligence analytics to spot potentially harmful activities or misconfigurations. 
+
+This process necessitates a cultural shift, aligning all security teams and management to create effective, threat-aware defense systems.
+
+####  Detection Types
+Threat detection can be approached from two main perspectives:
+
+**Environment-based Detection**: This focuses on identifying changes in an environment based on established configurations and baseline activities, comprising:
+
+**Configuration Detection**: Utilizes current knowledge of the environment to spot misalignments, with benefits like ease of creation and maintenance but challenges in dynamic settings.
+
+**Modelling**: Involves defining baseline operations and monitoring for deviations, helping identify unknown adversary activities but lacking contextual information during investigations.
+
+**Threat-based Detection**: This centers on elements linked to adversary activities, including:
+
+**Indicator Detection**: Involves using indicators to identify legitimate and malicious activities. It's quick to deploy but dependent on the adversary's rate of change and can be retroactive.
+
+**Threat Behaviour Detection**: Focuses on an adversary's tactics, techniques, and procedures, allowing for a scalable approach to detection. While it minimizes false positives, it requires extensive data for effective coverage.
+
+Combining these detection types enhances overall defense systems, as model-based detection can be bolstered by expert-led configuration detection to minimize false alerts.
+
+#### Detection as Code
+Detection as Code (DaC) is a method that treats detection processes like software development, promoting scalability and adaptability to changing environments. 
+
+By incorporating principles from Continuous Integration/Continuous Development (CI/CD), DaC offers:
+
+
+```
+Version Control: Enhances the ability to track and review changes in detection rules.
+Automation Workflows: Facilitates quick testing and deployment of detection processes.
+Customizable Detections: Allows for vendor-agnostic solutions across various security products.
+Test-Driven Development: Ensures high-quality detections through rigorous testing.
+Team Collaboration: Breaks down silos between security teams, fostering teamwork in coding processes.
+Code Reusability: Enables engineers to leverage existing code for similar detection functions, accelerating the overall detection process.
+```
+
+
+
+**Which detection type focuses on misalignments within the current infrastructure?**
+
+>  Configuration
+
+**Which detection approach involves building an asset or activity baseline profile for detection?**
+
+>  Modelling
+
+**Which type of detection integrates with defensive playbooks?**
+
+>  Threat Behaviour
+
+
+## Task 4 Detection Engineering Frameworks 1
+
+Which framework looks at how to make it difficult for an adversary to change their approach when detected?
+Pyramid of Pain
+
+What is the improved Cyber Kill Chain framework called?
+
+The Unified Kill Chain
+
+How many phases are in the improved kill chain?
+
+18
+
+## Task 5 Detection Engineering Frameworks 2
+
 
