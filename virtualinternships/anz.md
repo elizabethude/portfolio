@@ -41,7 +41,7 @@ My report detailed both the technical process and the investigative approach use
 ![2](https://github.com/elizabethude/portfolio/blob/main/projectimages/virtual%20internship/anz/2.PNG?raw=true)
 
 
-### Skills obtained
+### Skills 
 
 ```
 Digital/Open Source Investigations, Social Engineering concepts, Security report writing, Analyse network traffic, Identify file types, Open source investigation
