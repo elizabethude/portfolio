@@ -18,6 +18,8 @@ title: Commonwealth Bank Internship
 
 
 
+
+
 I completed several key cybersecurity tasks that enhanced my skills in data analysis, incident response, security awareness, and penetration testing:
 
 *  Fraud Detection Dashboard (Commonwealth Bank): I used Splunk to create a dashboard that visualized fraud patterns based on age, gender, category, and merchants, improving fraud detection and reporting.
