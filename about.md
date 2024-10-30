@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+
 ---
 
 ##   Hi, I’m Elizabeth Ude — Cybersecurity Enthusiast & Human
