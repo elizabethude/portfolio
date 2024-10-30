@@ -8,12 +8,14 @@ In this room, well go through the concept of detection engineering and framework
 Before starting, I’d recommend checking out the reading material provided with each task—it’ll give you a solid foundation. 
 This guide will cover just the essentials needed to answer the questions.
 
+
 ![1a](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/1.PNG?raw=true)
+
 
 
 ##  Task 2 What is Detection Engineering?
 
-####  Detection Engineering
+####  **Detection Engineering**
 
 Cybersecurity is rapidly evolving, and so are the tactics of adversaries, making it challenging for security teams to keep pace. 
 
@@ -22,7 +24,7 @@ Detection engineering addresses this by continuously building and refining threa
 This process necessitates a cultural shift, aligning all security teams and management to create effective, threat-aware defense systems.
 
 
-####  Detection Types
+####  **Detection Types**
 Threat detection can be approached from two main perspectives:
 
 **Environment-based Detection**: This focuses on identifying changes in an environment based on established configurations and baseline activities, comprising:
@@ -39,7 +41,7 @@ Threat detection can be approached from two main perspectives:
 
 Combining these detection types enhances overall defense systems, as model-based detection can be bolstered by expert-led configuration detection to minimize false alerts.
 
-#### Detection as Code
+#### **Detection as Code**
 Detection as Code (DaC) is a method that treats detection processes like software development, promoting scalability and adaptability to changing environments. 
 
 By incorporating principles from Continuous Integration/Continuous Development (CI/CD), DaC offers:
@@ -57,7 +59,9 @@ By incorporating principles from Continuous Integration/Continuous Development (
 **Code Reusability**: Enables engineers to leverage existing code for similar detection functions, accelerating the overall detection process.
 
 
+
 ![2a](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/2a.PNG?raw=true)
+
 
 
 
@@ -77,37 +81,40 @@ By incorporating principles from Continuous Integration/Continuous Development (
 
 
 
+
 ## Task 4 Detection Engineering Frameworks 1
 
-####**MITRE and CVEs**
+####  **MITRE and CVEs**
 
 MITRE is recognized for cataloging CVEs that adversaries might exploit in their malicious activities. 
 
 They also offer a knowledge base that security analysts can leverage to track the tactics and techniques frequently used by malicious actors across various platforms like Windows, macOS, Linux, and mobile devices.
 
 
-####**ATT&CK Framework**
+####  **ATT&CK Framework**
 
 The ATT&CK framework is essential for mapping adversarial actions relevant to detection engineering. 
 
 It serves as a guide for identifying what to monitor, especially during the detection gap analysis phase.
 
 
-####**Cyber Analytics Repository (CAR)**
+####  **Cyber Analytics Repository (CAR)**
 
 The CAR knowledge base is utilized for detecting adversary behaviors, prioritizing them based on insights from the ATT&CK framework, ensuring that security efforts are focused on the most critical threats.
 
 
 ![4d](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/4d.PNG?raw=true)
 
-####**Pyramid of Pain**
+
+
+####  **Pyramid of Pain**
 
 The Pyramid of Pain is a widely recognized framework that illustrates the challenges adversaries face when defenders detect their tactics, techniques, and procedures (TTPs). 
 
 It emphasizes the difficulty and cost for adversaries to adapt their TTPs once they are identified.
 
 
-####**Cyber Kill Chain**
+####  **Cyber Kill Chain**
 
 Inspired by military strategy, Lockheed Martin developed the Cyber Kill Chain framework to outline the key steps typically taken by adversaries during cyber-attacks. 
 
@@ -123,7 +130,9 @@ Command & Control
 Actions on Objectives
 ```
 
+
 ![4d](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/4dd.PNG?raw=true)
+
 
 
 For security analysts and detection engineers, understanding the Cyber Kill Chain is vital for recognizing intrusion attempts and integrating them into detection plans. 
@@ -148,7 +157,7 @@ The Unified Kill Chain enhances this concept by merging it with other frameworks
 ## Task 5 Detection Engineering Frameworks 2
 
 
-### Alerting and Detection Strategy Framework
+#### **Alerting and Detection Strategy Framework**
 
 Palantir's ADS Framework aims to guide the documentation of detection content, addressing the common issue of alert fatigue and apathy in security teams. 
 
@@ -228,13 +237,13 @@ As a detection analyst, I’ve been assigned the task of developing the strategy
 
 Each question has one correct answer, and it's up to me to identify and select it. 
 
-[6a](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/6a.PNG?raw=true)
+![6a](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/6a.PNG?raw=true)
 
-[6b](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/6b.PNG?raw=true)
+![6b](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/6b.PNG?raw=true)
 
-[6c](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/6c.PNG?raw=true)
+![6c](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/6c.PNG?raw=true)
 
-[6d](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/6d.PNG?raw=true)
+![6d](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/6d.PNG?raw=true)
 
 
 
