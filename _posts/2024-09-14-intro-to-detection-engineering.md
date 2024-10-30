@@ -13,7 +13,8 @@ This guide will cover just the essentials needed to answer the questions.
 
 
 
-##  Task 2 What is Detection Engineering?
+
+##  **Task 2 What is Detection Engineering?**
 
 ####  **Detection Engineering**
 
@@ -40,6 +41,8 @@ Threat detection can be approached from two main perspectives:
 **Threat Behaviour Detection**: Focuses on an adversary's tactics, techniques, and procedures, allowing for a scalable approach to detection. While it minimizes false positives, it requires extensive data for effective coverage.
 
 Combining these detection types enhances overall defense systems, as model-based detection can be bolstered by expert-led configuration detection to minimize false alerts.
+
+
 
 #### **Detection as Code**
 Detection as Code (DaC) is a method that treats detection processes like software development, promoting scalability and adaptability to changing environments. 
@@ -82,7 +85,7 @@ By incorporating principles from Continuous Integration/Continuous Development (
 
 
 
-## Task 4 Detection Engineering Frameworks 1
+## **Task 4 Detection Engineering Frameworks 1**
 
 ####  **MITRE and CVEs**
 
@@ -154,7 +157,7 @@ The Unified Kill Chain enhances this concept by merging it with other frameworks
 
 
 
-## Task 5 Detection Engineering Frameworks 2
+## **Task 5 Detection Engineering Frameworks 2**
 
 
 #### **Alerting and Detection Strategy Framework**
@@ -164,6 +167,7 @@ Palantir's ADS Framework aims to guide the documentation of detection content, a
 This problem often stems from ineffective detection alerts that hinder incident response and mitigation. 
 
 The framework provides a structured approach to creating effective detections and alerts.
+
 
 #### Framework Stages
 
@@ -223,13 +227,14 @@ The DML model features nine maturity levels, ranging from 0 to 8. The lower leve
 ![5b](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/5b.PNG?raw=true)
 
 
+
 **Read the above.**
 
 >  No answer needed
 
 
 
-##  Task 6 
+##  **Task 6 Detection Detective**
 
 In this task, I work to establish a detection engineering process aimed at identifying changes made to privileged and administrative groups and accounts in their Active Directory. 
 
@@ -239,11 +244,15 @@ Each question has one correct answer, and it's up to me to identify and select i
 
 ![6a](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/6a.PNG?raw=true)
 
+
 ![6b](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/6b.PNG?raw=true)
+
 
 ![6c](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/6c.PNG?raw=true)
 
+
 ![6d](https://github.com/elizabethude/portfolio/blob/main/projectimages/tryhackme/introtodetectionengineering/6d.PNG?raw=true)
+
 
 
 
