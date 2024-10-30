@@ -18,11 +18,21 @@ Datacom Cybersecurity Consultant Simulation on Forage - October 2024
 
 I analyzed the attack data to identify malware spread patterns, then drafted a concise email alerting the team of the incident, providing them with the necessary information, including the timestamp of the attack, to begin the response process.
 
+![1a](https://github.com/elizabethude/portfolio/blob/main/projectimages/virtual%20internship/telstra/1.PNG?raw=true)
+
 I analyzed the firewall logs in detail to detect patterns in the attacker’s network requests and identified characteristics of the requests that could be blocked. I also examined a proof-of-concept payload to better understand how the attacker had exploited the Spring4Shell vulnerability
+
 
 Using Python, I crafted a firewall rule to technically mitigate the malware's spread, enhancing my software development and problem-solving skills.
 
+
+![3](https://github.com/elizabethude/portfolio/blob/main/projectimages/virtual%20internship/telstra/3.PNG?raw=true)
+
+
 Finally, I conducted a postmortem, reflecting on the incident's details, root causes, and compliance implications. This wrap-up reinforced my understanding of incident management strategies and governance.
+
+
+![4](https://github.com/elizabethude/portfolio/blob/main/projectimages/virtual%20internship/telstra/4.PNG?raw=true)
 
 
 ### Skills
