@@ -6,8 +6,11 @@ title: ANZ Internship
 ## ANZ Australia Cyber Security Management Job Simulation on Forage - October 2024
 
 - Completed a simulation focussed on identifying cybersecurity threats at ANZ
+
 - Investigated e-mails to report suspicious items
+  
 - Analysed a Packet Capture file using an open source tool to identify and investigate any potential threats
+- 
 
 
 ###  Task 1
@@ -18,6 +21,12 @@ I thoroughly analyzed each email, checking for insecure websites (HTTP instead o
 
 Based on my findings, I recommended blocking or releasing the emails, ensuring to document the reasoning for my conclusions concerning each email.
 
+
+![1](https://github.com/elizabethude/portfolio/blob/main/projectimages/virtual%20internship/anz/1.PNG?raw=true)
+
+
+
+
 ####  Task 2
 
 I investigated suspicious network activity on the ANZ network using a provided packet capture (pcap) file. 
@@ -27,6 +36,9 @@ Using Wireshark and a Hex-editor, I filtered the traffic to focus on HTTP activi
 I identified file types through file signatures, such as JPEGs, and documented the steps taken to establish what images were viewed and files accessed. 
 
 My report detailed both the technical process and the investigative approach used throughout the analysis.
+
+
+![2](https://github.com/elizabethude/portfolio/blob/main/projectimages/virtual%20internship/anz/2.PNG?raw=true)
 
 
 ```
